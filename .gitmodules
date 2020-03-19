@@ -1,0 +1,3 @@
+[submodule "sortedcontainers"]
+	path = sortedcontainers
+	url = https://git.sailfishos.org/mirror/python-sortedcontainers.git
