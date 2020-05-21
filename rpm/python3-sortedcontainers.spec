@@ -25,5 +25,5 @@ rm -rf %{buildroot}
 
 %files
 %defattr(-,root,root,-)
-%{python3_sitearch}/sortedcontainers
-%{python3_sitearch}/sortedcontainers-*.egg-info
+%{python3_sitelib}/sortedcontainers
+%{python3_sitelib}/sortedcontainers-*.egg-info
